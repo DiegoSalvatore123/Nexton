@@ -1,0 +1,11 @@
+C:\Diego\Trabajos Backup\Nexton\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Diego\Trabajos Backup\Nexton\Domain\bin\Debug\net8.0\Domain.dll
+C:\Diego\Trabajos Backup\Nexton\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Diego\Trabajos Backup\Nexton\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Diego\Trabajos Backup\Nexton\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Diego\Trabajos Backup\Nexton\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Diego\Trabajos Backup\Nexton\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Diego\Trabajos Backup\Nexton\Domain\obj\Debug\net8.0\Domain.dll
+C:\Diego\Trabajos Backup\Nexton\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Diego\Trabajos Backup\Nexton\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Diego\Trabajos Backup\Nexton\Domain\obj\Debug\net8.0\ref\Domain.dll

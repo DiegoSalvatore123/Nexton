@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BDimsBggct44EFHXzY86Mv/q+mZRy+Dh4QNvkBrLZEhWrVXdaAuwnQH17Z9nVG1E4u7Z7ZyuxkOMmLa85Rd/zg==",
+  "success": true,
+  "projectFilePath": "C:\\Diego\\Trabajos Backup\\Nexton\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.1\\microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
